@@ -1,0 +1,38 @@
+Wing geometric properties: 
+            Span = 1000 in
+              AR = 6.45
+            Area = 155000.0 in
+      Root chord = 225 in
+       Tip chord = 100 in
+  Root incidence = 2 deg
+
+Aerodynamic analysis output: 
+                     Mach = 0.45
+                 Altitude = 0 in
+         Lift-curve slope = 5.0
+
+Divergence analysis output: 
+                 Altitude = 0 in
+         Divergence speed = 1555.47 fps
+                            921.59 KTAS
+          Divergence Mach = 1.39
+
+Modified lift distribution due to symmetric maneuver output: 
+                     Mach = 0.45
+                 Altitude = 0 in
+              Load factor = 5
+   Rigid Lift-curve slope = [6.03]
+ Elastic Lift-curve slope = [6.45]
+
+Control efficeincy analysis output: 
+                     Mach = 0.45
+                 Altitude = 0 ft
+  Control effect-s coef-t = 0.31
+   Control reversal speed = 1326.27 fps
+                            785.79 KTAS
+    Control reversal Mach = 1.19
+Flutter analysis: 
+                 Altitude = 0 ft
+            Flutter speed = does not occur
+             Flutter Mach = does not occur
+
