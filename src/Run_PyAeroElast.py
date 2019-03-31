@@ -11,8 +11,8 @@ from PyAeroElast import PyAeroElast
 
 """
     Description:
-        PyAeroElast is a Python set of scripts to estimate static and aeroelastic behavior
-        of an airplane conceiver-type wing of medium to high aspect ratios. The code uses aeroelastic
+        PyAeroElast is a Python set of scripts to estimate static and dynamic aeroelastic behavior
+        of an airplane conteliver-type wing of medium to high aspect ratios. The code uses aeroelastic
         strip theory and semi-empirical relations to estimate aerodynamic behavior and aeroelastic
         responses of the wing.
         

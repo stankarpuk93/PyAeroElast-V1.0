@@ -18,18 +18,6 @@ def PyAeroElast(inp, output_directory):
     """
         Description:
             Executes the PyAeroElast script.
-                
-            Analysis options:       
-                1. Aerodynamic analysis 
-                2. Static Aeroelasticity
-                    2.1. Divergence speed 
-                    2.2. Modified lift distribution for symmetric maneuvers 
-                    2.3. Aeroelastic control effectiveness
-                3. Dynamic Aeroelasticity
-        
-        Source:    
-                                     
-        Assumptions:
 
     """
 
