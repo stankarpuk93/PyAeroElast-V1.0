@@ -1,5 +1,5 @@
 # PyAeroElast-V 1.0
-PyAeroElast is a low-fidelity Aeroelastic estimation tool for conceptual aircraft design and rapid analysis of static and dynamic aeroelasticity of high aspect-ratio metallic wings.
+PyAeroElast is a low-fidelity aeroelastic estimation tool for conceptual aircraft design and rapid analysis of static and dynamic aeroelasticity of high aspect-ratio metallic wings.
 
 Methods used in the code are based on methodologies described in  R. Bisplinghoff, H. Ashley, R. Halfman 'Aeroelasticity'
 
